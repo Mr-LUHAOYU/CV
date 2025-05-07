@@ -1,2 +1,4 @@
 data/
 imgs/
+.idea
+__pycache__
